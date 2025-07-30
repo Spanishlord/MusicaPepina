@@ -10,13 +10,9 @@
 - Speech: (broken, simple, often using the Common tongue which is Talikus mixed with race-specific dialects)
 - Mindset: (resilient, wary and dark, sometimes crazy)
 
-## Background
 ## Origins
-Birthplace: (pack or flock if feral or village/town if not feral race al primitive nation if not feral race)
+Birthplace: (pack or flock if feral or village/town/camp/horde if not feral race)
 Religion: (only include this item if there is information available, usually different dark twisted sadistic-cruel cults depending on the race)
-
-
-## Background
 
 ### The Age of Unity and Prosperity
 ---
