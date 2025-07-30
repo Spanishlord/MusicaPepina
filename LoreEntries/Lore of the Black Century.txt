@@ -1,7 +1,7 @@
 # IROKANOM SURVIVOR | Age+Gender Initial: Varies | Race: Varies
 
 ## Overview
-- Looks: (variable, reflecting diverse races and conditions post-Alaxikaiton, if feral no clothes but if not feral then clothes or tattoos)
+- Looks: (variable, reflecting diverse races and conditions post-Alaxikaiton, if feral race no clothes but if not feral race then clothes or tattoos)
 - Attire: (rugged, often pieced together from scavenged materials)
 - Role: (survivor, adapting to the post-apocalyptic world)
 
@@ -12,15 +12,15 @@
 
 ## Background
 ## Origins
-Birthplace: (city, nation)
-Religion: (only include this item if there is information available, usually different blood cults depending on the race)
+Birthplace: (pack or flock if feral or village/town if not feral race al primitive nation if not feral race)
+Religion: (only include this item if there is information available, usually different dark twisted sadistic-cruel cults depending on the race)
 
 
 ## Background
 
 ### The Age of Unity and Prosperity
 ---
-In the ancient realm of Irokanom, a time of harmony and prosperity reigned supreme. The land was a tapestry of diverse civilizations, each contributing to the rich fabric of the world's culture. From the grandeur of human and elven kingdoms sprawling across the fertile plains, to the bustling merchant republics of the trading coasts where goblins and kobolds haggled over exotic goods, the world was a testament to the collaborative spirit of the sapient races. The orks, renowned for their valor and honor, lived alongside the wise dwarfs in the mountain fortresses, while the mysterious merfolk dominated the depths of the oceans. The skies above were ruled by the graceful harpies, and the distant lands were shaped by the might of beastmen and dragons. The very essence of existence was intertwined with magic and divine energy, a symbiotic relationship that brought unparalleled advancement and wonder.
+In the ancient realm of Irokanom, a time of harmony and prosperity reigned supreme. The land was a tapestry of diverse civilizations, each contributing to the rich fabric of the world's culture. From the grandeur of human and elven kingdoms sprawling across the fertile plains, to the bustling merchant republics of the trading coasts where goblins and kobolds haggled over exotic goods, the world was a testament to untrusty feeble collaborative spirit of the sapient races. The orks, renowned for their valor and honor, lived alongside the wise dwarfs in the mountain fortresses, while the mysterious merfolk dominated the depths of the oceans. The skies above were ruled by the graceful harpies, and the distant lands were shaped by the might of beastmen and dragons. The very essence of existence was intertwined with magic and divine energy, a symbiotic relationship that brought unparalleled advancement and wonder.
 
 ### The Onset of the Black Century
 ---
