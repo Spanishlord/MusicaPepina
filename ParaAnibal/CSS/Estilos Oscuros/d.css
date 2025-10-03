@@ -1,0 +1,139 @@
+body{
+    font-family: Arial, sans-serif;
+    color: black;
+    background-color: lightblue;
+    background-image: url(../../Fotos/Fondos/oscuro.png);
+    background-attachment: fixed;
+}
+
+header{
+    background-color: blue;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    border-radius: 20px;
+    border: solid red 3px;
+}
+
+marquee{
+    color: white;
+    background-color: black;
+    font-size: 18px;
+    padding: 8px;
+}
+
+nav{
+    padding: 15px;
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+li a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 15px;
+    border-radius: 5px;
+    background-color: darkblue;
+    margin: 15px;
+}
+
+nav ul li a:hover{
+    background-color: black;
+}
+
+main{
+    max-width: 1200px;
+    margin: 30px;
+    padding: 15px;
+}
+
+
+.segmento{
+    background-color: darkgray;
+    border-radius: 40px;;
+    margin-bottom: 30px;
+    padding: 15px;
+    text-align: center;
+    border: solid red 3px;
+}
+
+.paravideos{
+    place-content: center;
+    overflow: auto;
+}
+.article img{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+h2{
+    margin-bottom: 1rem;
+    color: lightcoral;
+    font-family: italic;
+}
+
+article{
+    border: solid black 1px;
+    padding: 15px;
+}
+
+#izquierda{
+    float: right;
+}
+
+aside {
+    position: fixed;
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    margin-top: 5%;
+    padding: 15px;
+    border: solid red 3px;
+    right: 0;
+    text-align: center;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    padding: 15px;
+    border: solid red 3px;
+}
+
+footer p{
+    margin: 0;
+    padding: 5px;
+}
+
+img{
+    height: 190px;
+    width: 190px;
+}
+
+video{
+    height: 400px;
+    width: 600px;
+    border-radius: 40px;
+    border: solid red 3px;
+}
+
+.Orden{
+    background-color: black;
+    color: white;
+    height: 200px;
+    width: 80%;
+    text-align: center;
+    margin: 30px;
+    border: solid red 3px;
+    border-radius: 60px;
+}
